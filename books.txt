@@ -1,0 +1,10 @@
+990001#Ahmad Muhammad#Programming Languages#1st edition#Science#12/Jan/1998#4#0
+990002#Usman Mohammed#Java Made Easy#3rd edition#Science#14/Nov/2000#9#0
+990003#Yahaya#History of Computing#4th edition#Computer#12/Sep/1970#3#0
+990004#Mahadi Abuhuraira#Real Analysis#2nd edition#Mathematics#12/Sep/1970#7#0
+990005#Muhammad Isah#Advance Java#11th edition#programming#20/Jan/1998#4#0
+990006#Abuhurairas copy#Introduction to Java#1st edition#programming#15/Aug/2005#3#0
+990007#Prof. J. Singh#Complex Numbers II#2nd Edition#Mathematics#12/Dec/2012#1#0
+990009#Prof. A.S. Funtua#An insight into medicine profession#1st edition#Medicine#18/May/2016#1#0
+990010#Sheik Abduljabbar Al-kabariyy#The Life of Usman Dan-Fodio#1st edition#History#12/Dec/2012#3#0
+990011#Prof GU Garba#New General Mathematics#3#Mathematics#12/Jan/1960#3#0
